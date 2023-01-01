@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_chapter01/_chapter01.iml" filepath="$PROJECT_DIR$/_chapter01/_chapter01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_chapter02/_chapter02.iml" filepath="$PROJECT_DIR$/_chapter02/_chapter02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_chapter03/_chapter03.iml" filepath="$PROJECT_DIR$/_chapter03/_chapter03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_chapter04/_chapter04.iml" filepath="$PROJECT_DIR$/_chapter04/_chapter04.iml" />
+    </modules>
+  </component>
+</project>
