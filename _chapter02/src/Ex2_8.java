@@ -11,5 +11,6 @@ public class Ex2_8 {
 		
 		System.out.println("x="+x);
 		System.out.println("y="+y);
+		
 	}
 }
