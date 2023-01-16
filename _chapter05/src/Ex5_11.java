@@ -80,15 +80,6 @@ public class Ex5_11 {
         System.out.printf("틀렸습니다.%n%n");
       }
     }*/
-    int slice = 10;
-    int n = 10;
-    int answer = 0;
-    if(slice > n ||)
-      answer = 1;
-    else if (slice < n && n % slice == 0)
-      answer = n / slice;
-    else answer = n / slice +1;
-    System.out.println(answer);
 
   }
 }
