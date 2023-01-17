@@ -8,22 +8,23 @@ class Ex6_01 {
     System.out.println("현재 채널은 " + t.channel + "입니다.");
   }
 }
-  class Tv {
 
-    //Tv의 속성(멤버변수)
-    String color;
-    boolean power;
-    int channel;
+class Tv {
 
-    void power() {  //TV켜거나 끄는 메서드
-      power = !power;
-    }
+  //Tv의 속성(멤버변수)
+  String color;
+  boolean power;
+  int channel;
 
-    void channelUp() {
-      ++channel;
-    }
-
-    void channelDown() {
-      --channel;
-    }
+  void power() {  //TV켜거나 끄는 메서드
+    power = !power;
   }
+
+  void channelUp() {
+    ++channel;
+  }
+
+  void channelDown() {
+    --channel;
+  }
+}
