@@ -1,0 +1,25 @@
+public class Ex6_05 {
+
+  public static void main(String[] args) {
+    int[] numbers = {1, 2, 3, 4, 5};
+    int answer = 0;
+    int max1 = 0;
+    int max2 = 0;
+
+    for(int i = 0; i<numbers.length; i++){
+      if(max1 < numbers[i]){
+        numbers[0] = numbers[i];
+      }
+      max1 = numbers[0];
+    }
+
+    for(int i = 1; i<numbers.length; i++){
+      if(max2 < numbers[i]){
+        numbers[1] = numbers[i];
+      }
+      max2 = numbers[1];
+    }
+
+    System.out.println(numbers);
+  }
+}
