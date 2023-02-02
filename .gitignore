@@ -234,3 +234,4 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,windows,eclipse
 *.iml
+*.xml
