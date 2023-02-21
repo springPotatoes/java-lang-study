@@ -17,8 +17,8 @@ public class Ex6_07 {
   }
 
 
-  static void change(Data2 d) {   //참조형 매개변수
-    d.x = 1000;
-    System.out.println("change() : x = " + d.x);
+  static void change(Data2 da) {   //참조형 매개변수
+    da.x = 1000;
+    System.out.println("change() : x = " + da.x);
   }
 }
